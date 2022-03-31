@@ -6,7 +6,7 @@ The goal of this repo is to create micro-projects to practice tools and concepts
 
 - [ ] Python: IO, pickle and json
 - [ ] Python: Venv, packeges and project structure basics
-- [ ] Git: Alura training
+- [ ] Git: simulation on workflows
 - [x] Algos/Data Structure: Hash Functions
 
 ### Small projects Demos
@@ -14,3 +14,4 @@ The goal of this repo is to create micro-projects to practice tools and concepts
 - [ ] CLI Game platform
 - [ ] CLI Point of Sale
 - [ ] CLI Solfeje Pratice Generator
+- [ ] CLI Custom commands with pipx
