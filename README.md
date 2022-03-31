@@ -1,7 +1,6 @@
 # Personal Learning-space
 
 The goal of this repo is to create micro-projects to practice tools and concepts I'm currently learning.
-Each folder is a project and, nevertheless my scope of study is currently focused on python programming, not all folders must be python projects.
 
 ### Topics
 

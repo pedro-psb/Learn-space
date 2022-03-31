@@ -19,7 +19,7 @@ git remote rename <nome> <nome-2>
 
 git push <remote-name> <local-branch-to-push>
     Remote-name is usually 'origin'. push -u sets the given remote the default.
-git pull 
+git pull <remote-name> <remote-branch-to-push>
 
 git log --oneline
 git add .
