@@ -30,7 +30,7 @@ def get_resource(base_adress, endpoint):
 
     response = requests.get(adress, parameters)
     response.raise_for_status()
-    
+    requests.get()
     # A python representation of json with lists and dicts
     results = response.json()
     return results
