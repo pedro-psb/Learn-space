@@ -1,4 +1,4 @@
-# Personal Learning-space
+# Personal Learning Space
 
 The goal of this repo is to create micro-projects to practice and explore tools and concepts I'm currently learning.
 
